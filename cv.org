@@ -75,7 +75,7 @@
 
 * Osobne Informacije
 *** Datum rođenja
-    25. Siječnja 1984.
+    <1984-25-01>.
 *** Adresa
     Mladen Zekanović
 *** Telefon
