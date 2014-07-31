@@ -74,7 +74,7 @@
 *** Ime Prezime
     Mladen Zekanović
 *** Datum rođenja
-    <1986-01-01>
+    <1984-25-01>
 *** Adresa
     Marice Barić 1. 10000 Zagreb
 *** Telefon
