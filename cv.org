@@ -1,13 +1,10 @@
-#+OPTIONS: toc:nil H:10
-#+STARTUP: odd
-
 #+MACRO: first  Mladen
 #+MACRO: last   Zekanović
 #+MACRO: full {{{first}}} {{{last}}}
-#+MACRO: address Marice Barić, 1, 10000 Zagre
+#+MACRO: address Marice Barić, 1, 10000 Zagreb
 #+MACRO: phone  +386 95 840 6311 
 
-#+TITLE: Mladen Zekanović
+#+TITLE: *Mladen Zekanović*
 
 * Radno iskustvo
 *** 2006. - /Danas/
@@ -84,3 +81,4 @@
     [[mailto:mladen.zekanovic@gmail.com][Mladen Zekanović]]
 *** Repozitoriji
     https://bitbucket.org/bunnyzeko/  - Na zahtjev ustupim kod.
+    https://github.com/bunnyzeko/cv/
