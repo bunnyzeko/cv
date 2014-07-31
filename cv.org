@@ -77,9 +77,9 @@
 *** Datum rođenja
     25. Siječnja 1984.
 *** Adresa
-    {{{address}}}
+    Mladen Zekanović
 *** Telefon
-    {{{phone}}}
+    +385 95 840 6311
 *** E-mail
     [[mailto:mladen.zekanovic@gmail.com][Mladen Zekanović]]
 *** Repozitoriji
