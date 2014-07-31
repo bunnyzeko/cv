@@ -71,10 +71,12 @@
 *****  Aktivnost :: Počasni član Kluba, Video Sekcija. 
 
 * Osobne Informacije
-*** Datum rođenja
-    <1984-25-01>.
-*** Adresa
+*** Ime Prezime
     Mladen Zekanović
+*** Datum rođenja
+    <1986-01-01>
+*** Adresa
+    Marice Barić 1. 10000 Zagreb
 *** Telefon
     +385 95 840 6311
 *** E-mail
