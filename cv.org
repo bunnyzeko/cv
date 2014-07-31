@@ -1,0 +1,86 @@
+#+OPTIONS: toc:nil H:10
+#+STARTUP: odd
+
+#+MACRO: first  Mladen
+#+MACRO: last   Zekanović
+#+MACRO: full {{{first}}} {{{last}}}
+#+MACRO: address Marice Barić, 1, 10000 Zagre
+#+MACRO: phone  +386 95 840 6311 
+
+#+TITLE: Mladen Zekanović
+
+* Radno iskustvo
+*** 2006. - /Danas/
+    *Freelance* - web development.
+*** Rujan 2012. - Rujan 2013.
+    *Developer*, Naklikaj Stranicu  d.o.o.
+*** Siječanj 2012 - Kolovoza 2012.
+    *CTO*, Malo R za velike stvari d.o.o. Zagreb
+*** Siječanj 2010. - Kolovoza 2011.
+    *Developer*, "Localhost" obrt za računalne usluge, Zagreb
+
+* Edukacija
+*** 2006 - 2012
+    *Stručni prvostupnik informacijskih tehnologija*, bacc. ing. tchn. inf.
+***** Institucija
+      Tehničko veleučilište u Zagrebu smjer Elektroničko poslovanje
+
+* Projekti
+*** Naklikaj CMS
+    Sudjelovanje u razvoju naklikaj CMS-a.
+    (Ubuntu, Postgresql, Python, Django, AgilityJS)
+    https://www.naklikaj.com/
+*** Doolox Website Builder
+    Sudjelovanje u razvoju Doolox aplikacije za izradu Web Stranica.
+    (Ubuntu, PHP, Laravel)
+    https://www.doolox.com
+*** CPG stream
+    Razvoj cjelovitog sustava za streaming glazbe i upravljanje korisnicima
+    (Ubuntu, PHP, FuelPHP, Apapche, MySQL)
+    http://www.cpgstream.com
+*** Yoomloo Portal
+    Prva verzija Social Gaming platforme. Razvoj frontenda, backenda  i API-a. 
+    (Ubuntu, Python, Django, Javascript, AngularJS, Ubuntu, Nginx, Postgresql, Redis) 
+    http://yoomloo.mf-creative.net/ (Zaštićena stranica, ustupim na zahtjev)
+*** LoanNow CMS
+    Razvoj sistema za posudbu novca. Backend aplikacija za informacije o korisnicima
+    (PHP, Laravel, Mysql, Vanjski API-ji, XSLT)
+    Nema linka.
+* Tehničke vještine
+*** Programski jezici
+    - Iskusan :: PHP, Python, Javascript, HTML, CSS
+                 Bash, HTML, Javascript, CSS, XML
+    - Srednje :: Golang
+    - Učim :: Haskell, C, C++, Java, Elisp, Scheme
+*** Frameworks
+    - Iskusan :: Django (PHP), Laravel (PHP), FuelPHP (PHP), 
+                 AngularJS (Javascript), AgilityJs (Javascript), 
+                 Bootstrap (Css, Javascript)
+    - Učim :: Snap(Haskell), Yesod(Haskell), Ravel(Go), Gorilla(Go)
+*** Baze
+    - Iskusan :: Postgresql, Mysql
+    - Učim :: Mongodb, Redis
+*** Aplikacije
+    - Tekst :: Emacs, Sublime Text 3, 
+    - Grafika :: Gimp, Inkscape
+*** Version Control
+    Git, Mercurial, Bazaar, Subversion
+*** Sistem administracija
+    Linux, Nginx, Apache, Lighthttpd, XAMPP, BIND
+    
+* Volontiranje
+  
+*** Klub Studenata Elektrotehnike
+*****  Aktivnost :: Počasni član Kluba, Video Sekcija. 
+
+* Osobne Informacije
+*** Datum rođenja
+    25. Siječnja 1984.
+*** Adresa
+    {{{address}}}
+*** Telefon
+    {{{phone}}}
+*** E-mail
+    [[mailto:mladen.zekanovic@gmail.com][Mladen Zekanović]]
+*** Repozitoriji
+    https://bitbucket.org/bunnyzeko/  - Na zahtjev ustupim kod.
